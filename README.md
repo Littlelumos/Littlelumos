@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hello there 👋
 
-- 🌱 I’m currently learning typescipt, vue, node.js
-- 📫 How to reach me: qq1317699264 / nesb01t@hotmail.com
-- ⚡ Interesting experience: minecraft plugin developer
+- 🌱 Language in use : JavaScript, Java, Node.js
+- 📫 How to reach me : nesb01t@hotmail.com / qq1317699264
+- 🕹️ Interesting experience : Minecraft plugin developer
