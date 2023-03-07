@@ -15,7 +15,7 @@ Apart from coding, I also developing a minecraft mmorpg server
 <br>
 you can find my open-source plugins at my repositories.
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nesb01t&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Nesb01t&theme=onedark"></img>
 </p>
 
 <h2 align="center">
