@@ -4,7 +4,7 @@ My name is JiaCheng Yang, and I'm a junior software/web developer, I'm from Chin
 ### Spigot Developer & Server Owner
 Apart from coding, I also developing a minecraft mmorpg server - you can find my open-source plugins at my repositories.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nesb01t)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Technologies & Tools
 <p align="left" style="background: grey">
