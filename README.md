@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   Hello, folks! 👋
-</h2>
+</h1>
 <p align="center">
 My name is JiaCheng Yang, and I'm a junior software/web developer
 <br>
