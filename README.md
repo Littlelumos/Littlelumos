@@ -14,9 +14,9 @@ I'm from China, living in HangZhou and currently learning at Zhejiang Univeristy
 Apart from coding, I also developing a minecraft mmorpg server
 <br>
 you can find my open-source plugins at my repositories.
-</p>
-
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nesb01t&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <h2 align="center">
   Technologies & Tools
