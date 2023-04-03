@@ -11,9 +11,9 @@ I'm from China, living in HangZhou and currently learning at Zhejiang Univeristy
   Spigot Developer & Server Owner
 </h2>
 <p align="center">
-Apart from coding, I also developing a minecraft mmorpg server
+Apart from coding, I also developing a minecraft mmorpg server named QuantumBreak
 <br>
-you can find my open-source plugins at my repositories.
+you can find my open-source plugins for all of server designer at my repositories.
 <br>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Nesb01t&theme=onedark"></img>
