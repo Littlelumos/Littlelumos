@@ -15,8 +15,6 @@ Apart from coding, I also developing a minecraft mmorpg server named QuantumBrea
 <br>
 you can find my open-source plugins for all of server designer at my repositories.
 <br>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=Nesb01t&theme=onedark"></img>
 </p>
 
 <h2 align="center">
