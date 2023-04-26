@@ -19,7 +19,9 @@ you can find my open-source plugins for all of server designer at my repositorie
 </p>
 
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <h2 align="center">
   Technologies & Tools
 </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+</p>
