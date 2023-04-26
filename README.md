@@ -18,6 +18,8 @@ you can find my open-source plugins for all of server designer at my repositorie
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nesb01t&show_icons=true"></img>
 </p>
 
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white></img>
 <h2 align="center">
   Technologies & Tools
 </h2>
