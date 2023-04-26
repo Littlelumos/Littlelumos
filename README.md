@@ -14,7 +14,7 @@ I'm from China, living in HangZhou and currently learning at Zhejiang Univeristy
 <p align="center">
 Apart from coding, I also developing a minecraft mmorpg server named QuantumBreak
 <br>
-you can find my open-source plugins for all of server designer at my repositories.
+you can find my open-source plugins designing based on great convenience for all of server designer at my repositories.
 <br>
   
 
