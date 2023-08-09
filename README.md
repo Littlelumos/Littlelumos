@@ -2,7 +2,7 @@
   👋 Hello, folks!
 </h1>
 <p align="center">
-Hello here, I'm a junior software/web developer, Striving to become a full-stack engineer!
+Hello there, I'm a junior software/web developer, Striving to become a full-stack engineer!
 <br>
 I'm from China, living in HangZhou and currently learning at Zhejiang Univeristy of Science & Technology.
 </p>
