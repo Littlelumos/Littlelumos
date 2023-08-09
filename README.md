@@ -2,9 +2,9 @@
   👋 Hello, folks!
 </h1>
 <p align="center">
-My name is JiaCheng Yang, and I'm a junior software/web developer, Striving to become a full-stack engineer!
+Hello here, I'm a junior software/web developer, Striving to become a full-stack engineer!
 <br>
-I'm from China, living in HangZhou and currently learning at Zhejiang Univeristy of Science&Technology.
+I'm from China, living in HangZhou and currently learning at Zhejiang Univeristy of Science & Technology.
 </p>
 <p style="margin-top: 5px" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nesb01t&show_icons=true"></img></p>
 
