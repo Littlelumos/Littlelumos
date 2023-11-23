@@ -1,9 +1,9 @@
 ## 👋 你好啊
 
 <img align="right" src="https://count.getloli.com/get/@:Nesb01t?theme=rule34">
-数字媒体技术专业，热爱前端 & 游戏开发，在读大三
 
-我来自 🇨🇳
+
+我来自 🇨🇳 数字媒体技术专业，热爱 Elixir，前端 & 游戏开发，在读大三
 
 ### 兼收并录
 
