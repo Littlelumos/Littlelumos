@@ -9,7 +9,7 @@
 
 📫 我的一些开发记录 [@Nesb01t's CSDN](https://blog.csdn.net/Littlelumos?spm=1000.2115.3001.5343)
 
-🔬 用 Astro 搭建的博客 [@yurina.cafe](https://yurina.cafe/)（施工中）
+🔬 基于 Astro 搭建的博客 [@yurina.cafe](https://yurina.cafe/)（施工中）
 
 ### 前端技术栈
 
