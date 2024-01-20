@@ -12,6 +12,8 @@ I'm from 🇨🇳, majoring in digital media technology, loving Elixir, front-en
 
 ### Maintainer 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesb01t&layout=compact)](https://github.com/nesb01t/github-readme-stats)
+
 🌿 Interested in minecraft-related development, and used `.NET` to create many of gadgets.
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
