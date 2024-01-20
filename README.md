@@ -12,7 +12,7 @@ I'm from 🇨🇳, majoring in digital media technology, loving Elixir, front-en
 
 ### Maintainer 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesb01t&layout=compact&hide=c,css,html&theme=dark)](https://github.com/nesb01t/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesb01t&layout=compact&hide=c,css,html)](https://github.com/nesb01t/github-readme-stats)
 
 🌿 Interested in minecraft-related development, and used `.NET` to create many of gadgets.
 
