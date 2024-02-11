@@ -33,3 +33,5 @@ I'm from 🇨🇳, majoring in digital media technology, loving Elixir, front-en
 ![SpigotMC Badge](https://img.shields.io/badge/SpigotMC-ED8106?logo=spigotmc&logoColor=fff&style=for-the-badge)
 ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge)
 
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. 
+                                                                                                        - Martin Golding
