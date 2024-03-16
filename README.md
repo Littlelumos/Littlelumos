@@ -3,7 +3,8 @@
 
 ```markdown
 I'm from 🇨🇳, majoring in digital media technology
-loving front-end & game development. currently studying in my junior year
+loving front-end & game development
+currently studying in my junior year
 ```
 
 ### Social links
