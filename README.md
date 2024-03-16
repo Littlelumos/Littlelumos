@@ -1,8 +1,7 @@
 ## 👋 Hi there
-```markdown
-
 <img align="right" src="https://count.getloli.com/get/@:Nesb01t?theme=rule34">
 
+```markdown
 I'm from 🇨🇳, majoring in digital media technology
 loving front-end & game development. currently studying in my junior year
 ```
