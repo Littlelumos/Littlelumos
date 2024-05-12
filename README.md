@@ -1,4 +1,4 @@
-## 👋 Hi there
+## 👋 Good day to ya
 <img align="right" src="https://count.getloli.com/get/@:Nesb01t?theme=rule34">
 
 ```markdown
