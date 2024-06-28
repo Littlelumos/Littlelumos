@@ -11,7 +11,7 @@ currently studying in my junior year
 
 📫 bunch of developing records [Juejin](https://juejin.cn/user/1128536414880599)
 
-🔬 blog based on Astro.js [Yurina.cafe](https://yurina.cafe/)
+🔬 blog based on Astro.js [nescraft.cn](https://nescraft.cn/)
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24475%26project%3D%26in=0)](https://codetime.dev)
 
