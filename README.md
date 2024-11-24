@@ -1,42 +1,79 @@
-## 👋 Good day
-<img align="right" src="https://count.getloli.com/get/@:Nesb01t?theme=rule34">
+## Hello here, This is nesb01t 👋
 
-```markdown
-I'm from 🇨🇳, majoring in digital media technology
-loving front-end & game development
-currently studying in my junior year
-```
+![QQ Badge](https://img.shields.io/badge/1317699264-030303?style=flat&logo=tencentqq&logoColor=white)
+[![Outlook Badge](https://img.shields.io/badge/intellines@outlook.com-004788?style=flat&logo=maildotru&logoColor=white&link=mailto:intellines@outlook.com)](mailto:intellines@outlook.com)
+![BattlenetCN Badge](https://img.shields.io/badge/Nesb01t%235590-4381C3?style=flat&logo=battledotnet&logoColor=white)
+[![Bilibili Badge](https://img.shields.io/badge/真名稚生-CD6799?style=flat&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/1624454327/)](https://space.bilibili.com/1624454327/)
+[![Juejin Badge](https://img.shields.io/badge/稀土掘金-007FFF?style=flat&logo=juejin&logoColor=white&link=mailto:intellines@outlook.com)](https://juejin.cn/user/1128536414880599)
+[![Netease Cloud Badge](https://img.shields.io/badge/intellines-D43C33?style=flat&logo=neteasecloudmusic&logoColor=white&link=mailto:intellines@outlook.com)](mailto:intellines@outlook.com)
 
-### Social links
+🌠 work on half stack creative developer.
 
-📫 bunch of developing records [Juejin](https://juejin.cn/user/1128536414880599)
+🔬 learning journey and achievements at [@nescraft.cn](https://nescraft.cn/)
 
-🔬 blog based on Astro.js [nescraft.cn](https://nescraft.cn/)
+## Tech Skills
 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24475%26project%3D%26in=0)](https://codetime.dev)
+#### Frontend & Backend
 
-### Maintainer 
+![threejs](https://skillicons.dev/icons?i=threejs)
+![nextjs](https://skillicons.dev/icons?i=nextjs)
+![solidjs](https://skillicons.dev/icons?i=solidjs)
+![tailwind](https://skillicons.dev/icons?i=tailwind)
+![nuxtjs](https://skillicons.dev/icons?i=nuxtjs)
+![d3](https://skillicons.dev/icons?i=d3)
+![css](https://skillicons.dev/icons?i=css)
+![html](https://skillicons.dev/icons?i=html)
+![sass](https://skillicons.dev/icons?i=sass)
+![Astro](https://skillicons.dev/icons?i=astro)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nesb01t&layout=compact&hide=c,css,html)](https://github.com/nesb01t/github-readme-stats)
+![express](https://skillicons.dev/icons?i=express)
+![spring](https://skillicons.dev/icons?i=spring)
+![ktor](https://skillicons.dev/icons?i=ktor)
+![nestjs](https://skillicons.dev/icons?i=nestjs)
+![prisma](https://skillicons.dev/icons?i=prisma)
 
-🌿 Interested in minecraft-related development, and used `.NET` to create many of gadgets.
+#### Language & Scripting
 
-![Unity Badge](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=fff&style=for-the-badge)
-![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge)
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
-![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![dart](https://skillicons.dev/icons?i=dart)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![elixir](https://skillicons.dev/icons?i=elixir)
+![java](https://skillicons.dev/icons?i=java)
+![nodejs](https://skillicons.dev/icons?i=nodejs)
+![py](https://skillicons.dev/icons?i=py)
+![cs](https://skillicons.dev/icons?i=cs)
+![cpp](https://skillicons.dev/icons?i=cpp)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Lua](https://skillicons.dev/icons?i=lua)
 
-### Tried with many tools
+#### Client
 
-![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
-![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
-![OpenGL Badge](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=fff&style=for-the-badge)
-![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=for-the-badge)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![SpigotMC Badge](https://img.shields.io/badge/SpigotMC-ED8106?logo=spigotmc&logoColor=fff&style=for-the-badge)
+![unreal](https://skillicons.dev/icons?i=unreal)
+![Unity](https://skillicons.dev/icons?i=unity)
+![electron](https://skillicons.dev/icons?i=electron)
+![flutter](https://skillicons.dev/icons?i=flutter)
+![godot](https://skillicons.dev/icons?i=godot)
+![tauri](https://skillicons.dev/icons?i=tauri)
+![qt](https://skillicons.dev/icons?i=qt)
+![DotNet](https://skillicons.dev/icons?i=dotnet)
 
+#### Middleware & Creation Tools
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. 
-                                                                                                        - Martin Golding
+![vercel](https://skillicons.dev/icons?i=vercel)
+![gradle](https://skillicons.dev/icons?i=gradle)
+![githubactions](https://skillicons.dev/icons?i=githubactions)
+![figma](https://skillicons.dev/icons?i=figma)
+![rabbitmq](https://skillicons.dev/icons?i=rabbitmq)
+![jenkins](https://skillicons.dev/icons?i=jenkins)
+![redis](https://skillicons.dev/icons?i=redis)
+![sqlite](https://skillicons.dev/icons?i=sqlite)
+![Docker](https://skillicons.dev/icons?i=docker)
+![nginx](https://skillicons.dev/icons?i=nginx)
+![git](https://skillicons.dev/icons?i=git)
+
+![blender](https://skillicons.dev/icons?i=blender)
+![Notion](https://skillicons.dev/icons?i=notion)
+![Markdown](https://skillicons.dev/icons?i=markdown)
+![svg](https://skillicons.dev/icons?i=svg)
+![WordPress](https://skillicons.dev/icons?i=wordpress)
+
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. - Martin Golding
